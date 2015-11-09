@@ -29,3 +29,22 @@
 ### Microformats
 + <http://microformats.org/wiki/h-resume> - <i>(v2)</i>
 + <http://microformats.org/wiki/hResume> - <i>(v1)</i>
+
+## Misc.
+
++ <http://dbpedia.org>
++ <https://www.wikidata.org>
++ <https://projects-old.apache.org/create.html>
++ <http://spinrdf.org/spin#>
++ <http://spinrdf.org/sp#>
++ <http://spinrdf.org/spl#>
++ <http://usefulinc.com/ns/doap#>
++ <http://www.w3.org/2005/xpath-functions#>
++ <http://vocab.org/>
++ <http://www.w3.org/2011/http>
++ <http://www.w3.org/2011/content#>
++ <http://www.w3.org/2003/06/sw-vocab-status/ns#>
++ <http://www.w3.org/2012/pyRdfa/>
++ <http://ogp.me/>
++ <https://dev.twitter.com/cards/overview>
++ <https://purl.org/docs/index.html>
