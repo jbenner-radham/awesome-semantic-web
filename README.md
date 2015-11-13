@@ -30,6 +30,10 @@
 + <http://microformats.org/wiki/h-resume> - <i>(v2)</i>
 + <http://microformats.org/wiki/hResume> - <i>(v1)</i>
 
+## Time
++ <http://www.w3.org/TR/owl-time/>
++ <http://www.w3.org/2006/time#>
+
 ## Misc.
 
 + <http://dbpedia.org>
