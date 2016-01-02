@@ -30,7 +30,7 @@
 - <http://microformats.org/wiki/h-resume> - <i>(v2)</i>
 - <http://microformats.org/wiki/hResume> - <i>(v1)</i>
 
-### DOAC (Description on a Career) - RDF
+### DOAC (Description of a Career) - RDF
 - <http://web.archive.org/web/20080209013901/http://ramonantonio.net/doac/0.1/> - <i>(archived)</i>
 
 ### FRESCA (FRESH Resume and Employment Schema) - JSON Schema
