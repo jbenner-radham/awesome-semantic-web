@@ -43,6 +43,10 @@
 ## Organizations
 - <http://www.w3.org/ns/org#>
 
+## Security Vocabulary - JSON-LD
+- [The Security Vocabulary](https://web-payments.org/vocabs/security)
+- <https://w3id.org/security/v1>
+
 ## Time
 - <http://www.w3.org/TR/owl-time/>
 - <http://www.w3.org/2006/time#>
