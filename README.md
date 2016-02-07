@@ -47,6 +47,10 @@
 - [The Security Vocabulary](https://web-payments.org/vocabs/security)
 - <https://w3id.org/security/v1>
 
+## Calendar - RDF
+- [RDF Calendar - an application of the Resource Description Framework to iCalendar Data](https://www.w3.org/TR/rdfcal/)
+- <http://www.w3.org/2002/12/cal/ical#>
+
 ## Time
 - <http://www.w3.org/TR/owl-time/>
 - <http://www.w3.org/2006/time#>
