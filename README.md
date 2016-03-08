@@ -4,14 +4,14 @@ Awesome Semantic Web
 
 Table of Contents
 -----------------
-- [vCard & Identity Representations](#)
-- [Resume/CV Representations](#)
-- [Organizations](#)
-- [Security](#)
-- [Calendar](#)
-- [Time](#)
-- [Miscellaneous Ontologies/Vocabularies](#)
-- [Miscellaneous (Assorted)](#)
+- [vCard & Identity Representations](#vcard--identity-representations)
+- [Resume/CV Representations](#resumecv-representations)
+- [Organizations](#organizations)
+- [Security](#security)
+- [Calendar](#calendar)
+- [Time](#time)
+- [Miscellaneous Ontologies/Vocabularies](#miscellaneous-ontologiesvocabularies)
+- [Miscellaneous (Assorted)](#miscellaneous-assorted)
 
 vCard & Identity Representations
 --------------------------------
