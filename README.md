@@ -1,67 +1,62 @@
-# awesome-semantic-web
-> A bucket list for various semantic web and linked data resources.
+Awesome Semantic Web
+====================
+> A curated list of various semantic web and linked data resources.
 
-## vCard & Identity Representations
+Table of Contents
+-----------------
 
-### Microformats
-- <http://microformats.org/wiki/h-card> - <i>(v2)</i>
-- <http://microformats.org/wiki/hcard> - <i>(v1)</i>
 
-### vCard Ontology - RDF
-- <http://www.w3.org/TR/vcard-rdf/>
+vCard & Identity Representations
+--------------------------------
+- [h-card - Microformats 2](http://microformats.org/wiki/h-card)
+- [hCard - Microformats](http://microformats.org/wiki/hcard)
+- [vCard Ontology - RDF](http://www.w3.org/TR/vcard-rdf/)
+ - <http://www.w3.org/2006/vcard/ns#> 
+- [jCard: The JSON Format for vCard](http://www.rfc-editor.org/info/rfc7095)
+ - <http://tools.ietf.org/html/rfc7095>
+- [FOAF (Friend of a Friend) - RDF](http://www.foaf-project.org/)
+ - <http://ldodds.com/foaf/foaf-a-matic.html>
+- [NEPOMUK Contact Ontology - RDF](http://www.semanticdesktop.org/ontologies/2007/03/22/nco/)
+- [Person - Microdata](https://schema.org/Person)
 
-### jCard: The JSON Format for vCard
-- <http://tools.ietf.org/html/rfc7095>
-- <http://www.rfc-editor.org/info/rfc7095>
 
-### FOAF (Friend of a Friend) - RDF
-- <http://www.foaf-project.org/>
-- <http://ldodds.com/foaf/foaf-a-matic.html>
+Resume/CV Representations
+-------------------------
+- [h-resume - Microformats 2](http://microformats.org/wiki/h-resume)
+- [hResume - Microformats](http://microformats.org/wiki/hResume)
+- [DOAC (Description of a Career) - <i>(archived)</i> - RDF](http://web.archive.org/web/20080209013901/http://ramonantonio.net/doac/0.1/)
+- [FRESCA (FRESH Resume and Employment Schema) - JSON Schema](https://github.com/fluentdesk/FRESCA)
+- [JSON Resume - JSON Schema](http://jsonresume.org/)
+  - <https://github.com/jsonresume/resume-schema>
 
-### NEPOMUK Contact Ontology - RDF
-- <http://www.semanticdesktop.org/ontologies/2007/03/22/nco/>
+Organizations
+-------------
+- [Core Organization Ontology - Turtle](http://www.w3.org/ns/org#)
 
-### Schema.org - Microdata
-- <https://schema.org/Person>
+Security
+--------
+- [The Security Vocabulary - JSON-LD](https://web-payments.org/vocabs/security)
+ - <https://w3id.org/security/v1>
 
-## Resume/CV Representations
-
-### Microformats
-- <http://microformats.org/wiki/h-resume> - <i>(v2)</i>
-- <http://microformats.org/wiki/hResume> - <i>(v1)</i>
-
-### DOAC (Description of a Career) - RDF
-- <http://web.archive.org/web/20080209013901/http://ramonantonio.net/doac/0.1/> - <i>(archived)</i>
-
-### FRESCA (FRESH Resume and Employment Schema) - JSON Schema
-- <https://github.com/fluentdesk/FRESCA>
-
-### JSON Resume - JSON Schema
-- <https://github.com/jsonresume/resume-schema>
-- <http://jsonresume.org/>
-
-## Organizations
-- <http://www.w3.org/ns/org#>
-
-## Security Vocabulary - JSON-LD
-- [The Security Vocabulary](https://web-payments.org/vocabs/security)
-- <https://w3id.org/security/v1>
-
-## Calendar - RDF
+Calendar
+--------
 - [RDF Calendar - an application of the Resource Description Framework to iCalendar Data](https://www.w3.org/TR/rdfcal/)
-- <http://www.w3.org/2002/12/cal/ical#>
+ - <http://www.w3.org/2002/12/cal/ical#>
 
-## Time
-- <http://www.w3.org/TR/owl-time/>
-- <http://www.w3.org/2006/time#>
+Time
+----
+- [Time Ontology in OWL](http://www.w3.org/TR/owl-time/)
+ - <http://www.w3.org/2006/time#>
 
-## Miscellaneous Ontologies/Vocabularies
+Miscellaneous Ontologies/Vocabularies
+-------------------------------------
 - [OPDM Computer Vocabulary](http://purl.org/opdm/computer#)
 - [OPDM Game Console Vocabulary](http://purl.org/opdm/gameconsole#)
 - [OPDM Mobile Phone Vocabulary](http://purl.org/opdm/mobilephone#)
 - [The Video Game Ontology](http://purl.org/net/VideoGameOntology)
 
-## Miscellaneous (Assorted)
+Miscellaneous (Assorted)
+------------------------
 - <http://dbpedia.org>
 - <https://www.wikidata.org>
 - <https://projects-old.apache.org/create.html>
