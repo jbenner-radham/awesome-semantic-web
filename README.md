@@ -1,5 +1,5 @@
-Awesome Semantic Web
-====================
+Awesome Semantic Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+================================================================================================================================================================================
 > A curated list of various semantic web and linked data resources.
 
 Table of Contents
@@ -18,7 +18,7 @@ vCard & Identity Representations
 - [h-card - Microformats 2](http://microformats.org/wiki/h-card)
 - [hCard - Microformats](http://microformats.org/wiki/hcard)
 - [vCard Ontology - RDF](http://www.w3.org/TR/vcard-rdf/)
- - <http://www.w3.org/2006/vcard/ns#> 
+ - <http://www.w3.org/2006/vcard/ns#>
 - [jCard: The JSON Format for vCard](http://www.rfc-editor.org/info/rfc7095)
  - <http://tools.ietf.org/html/rfc7095>
 - [FOAF (Friend of a Friend) - RDF](http://www.foaf-project.org/)
