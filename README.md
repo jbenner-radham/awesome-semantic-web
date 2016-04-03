@@ -35,6 +35,8 @@ Resume/CV Representations
 - [FRESCA (FRESH Resume and Employment Schema) - JSON Schema](https://github.com/fluentdesk/FRESCA)
 - [JSON Resume - JSON Schema](http://jsonresume.org/)
   - <https://github.com/jsonresume/resume-schema>
+- [ResumeRDF Ontology Specification - RDF](http://rdfs.org/resume-rdf/)
+  - <http://rdfs.org/resume-rdf/cv.rdfs#>
 
 Organizations
 -------------
