@@ -63,6 +63,7 @@ Miscellaneous Ontologies/Vocabularies
 - [OPDM Game Console Vocabulary](http://purl.org/opdm/gameconsole#)
 - [OPDM Mobile Phone Vocabulary](http://purl.org/opdm/mobilephone#)
 - [The Video Game Ontology](http://purl.org/net/VideoGameOntology)
+- [Comic Book Ontology](https://comicmeta.org/cbo/)
 
 Miscellaneous (Assorted)
 ------------------------
