@@ -1,5 +1,5 @@
-Awesome Semantic Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-================================================================================================================================================================================
+Awesome Semantic Web [![Awesome][AWESOME BADGE]][AWESOME PAGE]
+==============================================================
 > A curated list of various semantic web and linked data resources.
 
 Table of Contents
@@ -110,3 +110,6 @@ Miscellaneous (Assorted)
 - <http://www.w3.org/2001/sw/SW-FAQ>
 - <http://www.ebusiness-unibw.org/ontologies/opdm/>
 - <http://www.ebusiness-unibw.org/ontologies/opdm/gameconsole/example.html>
+
+[AWESOME BADGE]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[AWESOME PAGE]: https://github.com/sindresorhus/awesome
