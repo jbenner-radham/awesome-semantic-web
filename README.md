@@ -33,7 +33,7 @@ Resume/CV Representations
 - [hResume - Microformats](http://microformats.org/wiki/hResume)
 - [CV - _(archived)_ - RDF](https://web.archive.org/web/20121005003455/http://captsolo.net/semweb/resume/0.2/cv.rdf)
   - [Extending FOAF with Resume Information](https://www.w3.org/2001/sw/Europe/events/foaf-galway/papers/pp/extending_foaf_with_resume/)
-- [DOAC (Description of a Career) - <i>(archived)</i> - RDF](http://web.archive.org/web/20080209013901/http://ramonantonio.net/doac/0.1/)
+- [DOAC (Description of a Career) - _(archived)_ - RDF](http://web.archive.org/web/20080209013901/http://ramonantonio.net/doac/0.1/)
 - [FRESCA (FRESH Resume and Employment Schema) - JSON Schema](https://github.com/fluentdesk/FRESCA)
 - [JSON Resume - JSON Schema](http://jsonresume.org/)
   - <https://github.com/jsonresume/resume-schema>
