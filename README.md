@@ -18,11 +18,11 @@ vCard & Identity Representations
 - [h-card - Microformats 2](http://microformats.org/wiki/h-card)
 - [hCard - Microformats](http://microformats.org/wiki/hcard)
 - [vCard Ontology - RDF](http://www.w3.org/TR/vcard-rdf/)
- - <http://www.w3.org/2006/vcard/ns#>
+  - <http://www.w3.org/2006/vcard/ns#>
 - [jCard: The JSON Format for vCard](http://www.rfc-editor.org/info/rfc7095)
- - <http://tools.ietf.org/html/rfc7095>
+  - <http://tools.ietf.org/html/rfc7095>
 - [FOAF (Friend of a Friend) - RDF](http://www.foaf-project.org/)
- - <http://ldodds.com/foaf/foaf-a-matic.html>
+  - [FOAF-a-Matic](http://ldodds.com/foaf/foaf-a-matic.html)
 - [NEPOMUK Contact Ontology - RDF](http://www.semanticdesktop.org/ontologies/2007/03/22/nco/)
 - [Person - Microdata](https://schema.org/Person)
 
@@ -31,6 +31,8 @@ Resume/CV Representations
 -------------------------
 - [h-resume - Microformats 2](http://microformats.org/wiki/h-resume)
 - [hResume - Microformats](http://microformats.org/wiki/hResume)
+- [CV - _(archived)_ - RDF](https://web.archive.org/web/20121005003455/http://captsolo.net/semweb/resume/0.2/cv.rdf)
+  - [Extending FOAF with Resume Information](https://www.w3.org/2001/sw/Europe/events/foaf-galway/papers/pp/extending_foaf_with_resume/)
 - [DOAC (Description of a Career) - <i>(archived)</i> - RDF](http://web.archive.org/web/20080209013901/http://ramonantonio.net/doac/0.1/)
 - [FRESCA (FRESH Resume and Employment Schema) - JSON Schema](https://github.com/fluentdesk/FRESCA)
 - [JSON Resume - JSON Schema](http://jsonresume.org/)
@@ -45,17 +47,17 @@ Organizations
 Security
 --------
 - [The Security Vocabulary - JSON-LD](https://web-payments.org/vocabs/security)
- - <https://w3id.org/security/v1>
+  - <https://w3id.org/security/v1>
 
 Calendar
 --------
 - [RDF Calendar - an application of the Resource Description Framework to iCalendar Data](https://www.w3.org/TR/rdfcal/)
- - <http://www.w3.org/2002/12/cal/ical#>
+  - <http://www.w3.org/2002/12/cal/ical#>
 
 Time
 ----
 - [Time Ontology in OWL](http://www.w3.org/TR/owl-time/)
- - <http://www.w3.org/2006/time#>
+  - <http://www.w3.org/2006/time#>
 
 Miscellaneous Ontologies/Vocabularies
 -------------------------------------
