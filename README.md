@@ -51,6 +51,8 @@ Security
 
 Calendar
 --------
+- [h-event - Microformats 2](http://microformats.org/wiki/h-calendar)
+- [hCalendar - Microformats](http://microformats.org/wiki/hCalendar)
 - [RDF Calendar - an application of the Resource Description Framework to iCalendar Data](https://www.w3.org/TR/rdfcal/)
   - <http://www.w3.org/2002/12/cal/ical#>
 
