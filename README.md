@@ -91,6 +91,7 @@ Miscellaneous (Assorted)
 - <http://purl.org/vowl/spec/>
 - <http://www.w3.org/2001/02pd/rec54#>
 - <http://purl.org/ontology/bibo/>
+- <http://id.loc.gov/ontologies/bibframe.html>
 - <http://www.w3.org/TR/dwbp-ucr/>
 - <http://www.w3.org/TR/#tr_Health_Care_and_Life_Sciences__Semantic_Web_>
 - <http://www.w3.org/TR/hcls-sioc/>
