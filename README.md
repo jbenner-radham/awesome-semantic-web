@@ -55,6 +55,7 @@ Calendar
 - [hCalendar - Microformats](http://microformats.org/wiki/hCalendar)
 - [RDF Calendar - an application of the Resource Description Framework to iCalendar Data](https://www.w3.org/TR/rdfcal/)
   - <http://www.w3.org/2002/12/cal/ical#>
+- [Event - Microdata](http://schema.org/Event)
 
 Time
 ----
