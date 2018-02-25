@@ -26,7 +26,6 @@ vCard & Identity Representations
 - [NEPOMUK Contact Ontology - RDF](http://www.semanticdesktop.org/ontologies/2007/03/22/nco/)
 - [Person - Microdata](https://schema.org/Person)
 
-
 Resume/CV Representations
 -------------------------
 - [h-resume - Microformats 2](http://microformats.org/wiki/h-resume)
@@ -115,6 +114,7 @@ Miscellaneous (Assorted)
 - <http://www.w3.org/2001/sw/SW-FAQ>
 - <http://www.ebusiness-unibw.org/ontologies/opdm/>
 - <http://www.ebusiness-unibw.org/ontologies/opdm/gameconsole/example.html>
+- <https://web.archive.org/web/20160426223008/http://portablecontacts.net/draft-spec.html>
 
 [AWESOME BADGE]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [AWESOME PAGE]: https://github.com/sindresorhus/awesome
