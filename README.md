@@ -77,7 +77,7 @@ Miscellaneous (Assorted)
 ------------------------
 - <http://dbpedia.org>
 - <https://www.wikidata.org>
-- <https://projects-old.apache.org/create.html>
+- ~~<https://projects-old.apache.org/create.html>~~
 - <http://spinrdf.org/spin#>
 - <http://spinrdf.org/sp#>
 - <http://spinrdf.org/spl#>
