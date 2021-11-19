@@ -25,6 +25,8 @@ vCard & Identity Representations
   - [FOAF-a-Matic](http://ldodds.com/foaf/foaf-a-matic.html)
 - [NEPOMUK Contact Ontology - RDF](http://www.semanticdesktop.org/ontologies/2007/03/22/nco/)
 - [Person - Microdata](https://schema.org/Person)
+- [ISA Programme Person Core Vocabulary - RDF](https://www.w3.org/ns/person)
+  - <https://www.w3.org/ns/person.ttl>
 
 Resume/CV Representations
 -------------------------
