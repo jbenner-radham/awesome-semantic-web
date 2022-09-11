@@ -11,6 +11,8 @@ Table of Contents
 - [Calendar](#calendar)
 - [Time](#time)
 - [Bibliographic](#bibliographic)
+- [Electronics](#electronics)
+- [Media](#media)
 - [Miscellaneous Ontologies/Vocabularies](#miscellaneous-ontologiesvocabularies)
 - [Miscellaneous (Assorted)](#miscellaneous-assorted)
 
@@ -73,13 +75,33 @@ Bibliographic
 - [Bibliographic Ontology Specification](https://www.bibliontology.com/)
   - <https://purl.org/ontology/bibo/>
 
+Electronics
+-----------
+- [OPDM Computer Vocabulary](https://purl.org/opdm/computer#)
+  - `curl -sH "Accept: application/rdf+xml" -L https://purl.org/opdm/computer#`
+- [OPDM Game Console Vocabulary](https://purl.org/opdm/gameconsole#)
+  - `curl -sH "Accept: application/rdf+xml" -L https://purl.org/opdm/gameconsole#`
+- [OPDM Mobile Phone Vocabulary](https://purl.org/opdm/mobilephone#)
+  - `curl -sH "Accept: application/rdf+xml" -L https://purl.org/opdm/mobilephone#`
+
+Media
+-----
+- [Comic Book Ontology](https://comicmeta.org/cbo/)
+  - <https://comicmeta.org/cbo/cbo.owl>
+  - <https://comicmeta.org/cbo/cbo.ttl>
+  - <https://comicmeta.org/cbo/cbo.json>
+  - <https://comicmeta.org/cbo/cbo.n3>
+  - <https://comicmeta.org/cbo/cbo.nt>
+- [Movies Ontology](https://github.com/robotenique/movies-ontology)
+  - <https://raw.githubusercontent.com/robotenique/movies-ontology/master/ontology.rdf>  
+- [The Video Game Ontology](http://purl.org/net/VideoGameOntology)
+  - <http://vocab.linkeddata.es/vgo/GameOntologyv3.owl>
+
 Miscellaneous Ontologies/Vocabularies
 -------------------------------------
-- [OPDM Computer Vocabulary](http://purl.org/opdm/computer#)
-- [OPDM Game Console Vocabulary](http://purl.org/opdm/gameconsole#)
-- [OPDM Mobile Phone Vocabulary](http://purl.org/opdm/mobilephone#)
-- [The Video Game Ontology](http://purl.org/net/VideoGameOntology)
-- [Comic Book Ontology](https://comicmeta.org/cbo/)
+- [The PROV Namespace](https://www.w3.org/ns/prov#)
+  - <http://www.w3.org/ns/prov.owl>
+  - <http://www.w3.org/ns/prov.ttl>
 
 Miscellaneous (Assorted)
 ------------------------
