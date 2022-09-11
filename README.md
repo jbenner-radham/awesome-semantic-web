@@ -48,7 +48,8 @@ Resume/CV Representations
 
 Organizations
 -------------
-- [Core Organization Ontology - Turtle](http://www.w3.org/ns/org#)
+- [The Organization Ontology](https://www.w3.org/TR/vocab-org/)
+  - <http://www.w3.org/ns/org#>
 
 Security
 --------
