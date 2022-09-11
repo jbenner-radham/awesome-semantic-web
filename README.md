@@ -90,7 +90,7 @@ Miscellaneous (Assorted)
 - <http://www.w3.org/2012/pyRdfa/>
 - <http://ogp.me/>
 - <https://dev.twitter.com/cards/overview>
-- <https://purl.org/docs/index.html>
+- ~~<https://purl.org/docs/index.html>~~
 - <http://ontovibe.visualdataweb.org>
 - <http://purl.org/vowl/spec/>
 - <http://www.w3.org/2001/02pd/rec54#>
