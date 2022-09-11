@@ -10,6 +10,7 @@ Table of Contents
 - [Security](#security)
 - [Calendar](#calendar)
 - [Time](#time)
+- [Bibliographic](#bibliographic)
 - [Miscellaneous Ontologies/Vocabularies](#miscellaneous-ontologiesvocabularies)
 - [Miscellaneous (Assorted)](#miscellaneous-assorted)
 
@@ -65,6 +66,13 @@ Time
 - [Time Ontology in OWL](http://www.w3.org/TR/owl-time/)
   - <http://www.w3.org/2006/time#>
 
+Bibliographic
+-------------
+- [BIBFRAME Ontology](https://id.loc.gov/ontologies/bibframe.html)
+  - <https://id.loc.gov/ontologies/bibframe.rdf>
+- [Bibliographic Ontology Specification](https://www.bibliontology.com/)
+  - <https://purl.org/ontology/bibo/>
+
 Miscellaneous Ontologies/Vocabularies
 -------------------------------------
 - [OPDM Computer Vocabulary](http://purl.org/opdm/computer#)
@@ -94,8 +102,6 @@ Miscellaneous (Assorted)
 - <http://ontovibe.visualdataweb.org>
 - <http://purl.org/vowl/spec/>
 - <http://www.w3.org/2001/02pd/rec54#>
-- <http://purl.org/ontology/bibo/>
-- <http://id.loc.gov/ontologies/bibframe.html>
 - <http://www.w3.org/TR/dwbp-ucr/>
 - <http://www.w3.org/TR/#tr_Health_Care_and_Life_Sciences__Semantic_Web_>
 - <http://www.w3.org/TR/hcls-sioc/>
